@@ -130,7 +130,7 @@ export default function Home() {
             <div className="animate-fade-in-up" style={{ animationDelay: "0.1s" }}>
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.1] tracking-tight">
                 Hi, I&apos;m{" "}
-                <span className="bg-gradient-to-r from-accent to-accent-light bg-clip-text text-transparent">
+                <span className="gradient-text">
                   Shikhil
                 </span>
               </h1>
@@ -226,7 +226,7 @@ export default function Home() {
           <AnimateOnScroll delay={100}>
             <h2 className="mt-4 text-3xl sm:text-4xl md:text-5xl font-bold leading-[1.15] tracking-tight">
               From engineer to{" "}
-              <span className="bg-gradient-to-r from-accent to-accent-light bg-clip-text text-transparent">
+              <span className="gradient-text">
                 founder
               </span>
             </h2>
@@ -401,7 +401,7 @@ export default function Home() {
           <AnimateOnScroll delay={100}>
             <h2 className="mt-4 text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight">
               Building the{" "}
-              <span className="bg-gradient-to-r from-accent to-accent-light bg-clip-text text-transparent">
+              <span className="gradient-text">
                 AI-native
               </span>{" "}
               future

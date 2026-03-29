@@ -44,7 +44,9 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="mailto:shikhilgupta.work@gmail.com"
+            href="https://cal.com/shikhilkumargupta/connect?duration=30&overlayCalendar=true"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-xs tracking-widest uppercase px-4 py-2 rounded-lg bg-accent text-white hover:bg-accent/90 transition-colors duration-300"
           >
             Let&apos;s Talk
@@ -88,7 +90,9 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="mailto:shikhilgupta.work@gmail.com"
+            href="https://cal.com/shikhilkumargupta/connect?duration=30&overlayCalendar=true"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-xs tracking-widest uppercase px-4 py-2 rounded-lg bg-accent text-white text-center hover:bg-accent/90 transition-colors"
           >
             Let&apos;s Talk
