@@ -554,9 +554,6 @@ export default function Home() {
               &copy; {new Date().getFullYear()} Shikhil Kumar Gupta
             </p>
           </div>
-          <p className="text-xs text-muted/40 font-mono">
-            built with next.js + tailwind
-          </p>
         </div>
       </footer>
     </>
