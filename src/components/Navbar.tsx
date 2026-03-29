@@ -44,7 +44,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="mailto:hello@shikhil.dev"
+            href="mailto:hello@shikhilkumargupta.com"
             className="text-xs tracking-widest uppercase px-4 py-2 rounded-lg bg-accent text-white hover:bg-accent/90 transition-colors duration-300"
           >
             Let&apos;s Talk
@@ -88,7 +88,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="mailto:hello@shikhil.dev"
+            href="mailto:hello@shikhilkumargupta.com"
             className="text-xs tracking-widest uppercase px-4 py-2 rounded-lg bg-accent text-white text-center hover:bg-accent/90 transition-colors"
           >
             Let&apos;s Talk

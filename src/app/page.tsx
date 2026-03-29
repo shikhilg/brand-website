@@ -75,7 +75,7 @@ const SOCIALS = [
   },
   {
     name: "Email",
-    href: "mailto:hello@shikhil.dev",
+    href: "mailto:hello@shikhilkumargupta.com",
     icon: (
       <svg viewBox="0 0 24 24" className="w-5 h-5" fill="currentColor">
         <path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a3 3 0 01-3.144 0L1.5 8.67z" />
@@ -531,7 +531,7 @@ export default function Home() {
 
           <AnimateOnScroll delay={400}>
             <a
-              href="mailto:hello@shikhil.dev"
+              href="mailto:hello@shikhilkumargupta.com"
               className="mt-10 inline-flex items-center gap-2 px-8 py-3.5 rounded-lg bg-accent text-white text-sm font-medium hover:bg-accent/90 transition-colors duration-300"
             >
               Say Hello
