@@ -39,12 +39,14 @@ export const metadata: Metadata = {
     description: SITE_CONFIG.description,
     siteName: SITE_CONFIG.name,
     locale: "en_US",
+    images: [{ url: "/profile.png", alt: SITE_CONFIG.name }],
   },
   twitter: {
     card: "summary_large_image",
     title: SITE_CONFIG.title,
     description: SITE_CONFIG.description,
     creator: SITE_CONFIG.twitterHandle,
+    images: ["/profile.png"],
   },
   robots: {
     index: true,
