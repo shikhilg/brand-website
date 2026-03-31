@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 
-export const SITE_URL = "https://shikhilgupta.com";
+export const SITE_URL = "https://shikhilkumargupta.com";
 
 export const SITE_CONFIG = {
   name: "Shikhil Kumar Gupta",
